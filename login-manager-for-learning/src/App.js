@@ -1,10 +1,18 @@
+import React from "react";
 import Header from './components/HEADER/header'
+import './App.css'
 
 function App() {
   return (
-      <div>
-          <Header/>
-      </div>
+      <React.Fragment>
+          <header className={"App-header"} >
+              <Header/>
+
+          </header>
+
+
+      </React.Fragment>
+
   );
 }
 
