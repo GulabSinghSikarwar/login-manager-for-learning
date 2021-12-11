@@ -1,11 +1,12 @@
 import React from 'react'
-import Login from "../LOGIN/login";
+import Card from  '../UI/card'
 import  './home.css'
 const Home=()=>{
     return (
         <div className={"home-container"}>
             Home Container
-            <Login/>
+            <Card/>
+
         </div>
 
     )

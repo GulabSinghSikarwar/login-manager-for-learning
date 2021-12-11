@@ -1,0 +1,20 @@
+button{
+margin-left: 80px;
+    color: maroon;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 30px;
+    background-color: aliceblue;
+    padding: 10px 20px 10px 20px;
+    margin-top: 50px;
+    transition:  all ease-in 0.20s ;
+}
+button:hover{
+    background-color: #400e55;
+    color: white;
+}
+form{
+    justify-content: center;
+    align-items: center;
+
+}

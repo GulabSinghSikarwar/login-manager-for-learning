@@ -1,4 +1,8 @@
+header{
+    position: fixed;
+}
 .header-content{
+
     color: white;
     background-color: #3c0855;
     display: flex;
